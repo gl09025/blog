@@ -93,7 +93,7 @@ _**需要注意的是符号都是英文状态下的符号**_ <br />
 
 
 本文参考链接
-[Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
-[好用的Markdown编辑器一览](http://www.williamlong.info/archives/4319.html)
-[Markdown——入门指南](http://www.jianshu.com/p/1e402922ee32#)
-[Markdown写作浅谈](http://www.jianshu.com/p/PpDNMG)
+[Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)<br />
+[好用的Markdown编辑器一览](http://www.williamlong.info/archives/4319.html)<br />
+[Markdown——入门指南](http://www.jianshu.com/p/1e402922ee32#)<br />
+[Markdown写作浅谈](http://www.jianshu.com/p/PpDNMG)<br />
