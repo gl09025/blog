@@ -1,4 +1,4 @@
-** 本博客著作权归饥人谷_从这到那和饥人谷所有，转载请注明出处 **
+
 > Markdown已经成为Github圈内所共同使用并认可的编写文档语言
 
 #什么是Markdown
@@ -18,13 +18,13 @@ Markdown是一种用来写作的轻量级的**标记语言**。何为标记语�
 # 怎么使用Markdown
 ## 流行的编辑器
 - web全平台
-[作业部落](https://www.zybuluo.com/)
+  [作业部落](https://www.zybuluo.com/)
 - windows平台
-[MarkdownPad](http://www.markdownpad.com/)
+  [MarkdownPad](http://www.markdownpad.com/)
 - OS X平台
-[Mou](http://25.io/mou/)
+  [Mou](http://25.io/mou/)
 - Linux平台
-[ReText](http://sourceforge.net/p/retext/home/ReText/)
+  [ReText](http://sourceforge.net/p/retext/home/ReText/)
 ## 常用语法
 _**需要注意的是符号都是英文状态下的符号**_ <br />
 这里只列出经常用到的一些语法。
@@ -69,10 +69,10 @@ _**需要注意的是符号都是英文状态下的符号**_ <br />
 | 短文本 | 中等文本 | 稍微长一点的文本 |
 | 稍微长一点的文本 | 短文本 | 中等文本 |
 ```
-| 一个普通标题 | 一个普通标题 | 一个普通标题 |
-| ------| ------ | ------ |
-| 短文本 | 中等文本 | 稍微长一点的文本 |
-| 稍微长一点的文本 | 短文本 | 中等文本 |
+| 一个普通标题   | 一个普通标题 | 一个普通标题   |
+| -------- | ------ | -------- |
+| 短文本      | 中等文本   | 稍微长一点的文本 |
+| 稍微长一点的文本 | 短文本    | 中等文本     |
 
 相关代码
 ```
@@ -81,15 +81,15 @@ _**需要注意的是符号都是英文状态下的符号**_ <br />
 | 短文本 | 中等文本 | 稍微长一点的文本 |
 | 稍微长一点的文本 | 短文本 | 中等文本 |
 ```
-| 左对齐标题 | 右对齐标题 | 居中对齐标题 |
-| :------| ------: | :------: |
-| 短文本 | 中等文本 | 稍微长一点的文本 |
-| 稍微长一点的文本 | 短文本 | 中等文本 |
+| 左对齐标题    | 右对齐标题 |  居中对齐标题  |
+| :------- | ----: | :------: |
+| 短文本      |  中等文本 | 稍微长一点的文本 |
+| 稍微长一点的文本 |   短文本 |   中等文本   |
 
 简单语法介绍到这里，更详细的语法或高级语法可以参考一下链接
 >[Markdown语法说明（简体中文版）](http://wowubuntu.com/markdown/)
-[Markdown 语法手册 （完整整理版）](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C)
-[Cmd Markdown 编辑阅读器- 作业部落出品](https://www.zybuluo.com/mdeditor?url=http://www.zybuluo.com/static/editor/md-help.markdown)
+>[Markdown 语法手册 （完整整理版）](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C)
+>[Cmd Markdown 编辑阅读器- 作业部落出品](https://www.zybuluo.com/mdeditor?url=http://www.zybuluo.com/static/editor/md-help.markdown)
 
 
 本文参考链接
