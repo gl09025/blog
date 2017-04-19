@@ -186,11 +186,11 @@ div.addEventListener('click',function(e){
   var t = e.target
   //寻找H1节点
   while(t.tagName !== 'H1'){
-    t = t.parentNode
     if(t === div){
       t = null
       break;
     }
+    t = t.parentNode
   }
   if(t){
     console.log('你找到了h1')
