@@ -1,12 +1,8 @@
+
 --------------------
-GITHUB TOKEN: 35f7accc294134dbc7ae64f292c3d121edc9c632
-GITHUB GIST: 16b056dff8b80219892271b11e12d698
+GITHUB TOKEN: acf5f565f93409155a54af208bb1601515863b4a
+GITHUB GIST: 1bedb1965d7da5aad8795eefb85fd9ee
 GITHUB GIST TYPE: Secret
 
 --------------------
 
-
-
-GitHub personal access token ： 35f7accc294134dbc7ae64f292c3d121edc9c632
-
-GIST ID : 16b056dff8b80219892271b11e12d698
