@@ -25,3 +25,12 @@ background-position: center center;
 background-size: cover;
 ```
 
+
+## 文本溢出点
+```css
+.content p{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+```

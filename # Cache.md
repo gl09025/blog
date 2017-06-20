@@ -110,6 +110,7 @@ Cache-Control: max-age=3600, must-revalidate
 
 
   >参考文章
+  >[HTTP缓存控制小结](http://imweb.io/topic/5795dcb6fb312541492eda8c)
   >[浅谈浏览器http的缓存机制](http://www.cnblogs.com/vajoy/p/5341664.html)
   >[HTTP 缓存 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Caching_FAQ)
   >[HTTP 缓存|Web|Google Developers](https://developers.google.com/web/fundamentals/performance/)optimizing-content-efficiency/http-caching?hl=zh-cn]
