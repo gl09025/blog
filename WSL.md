@@ -39,12 +39,19 @@ curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 sudo apt-get install -y nodejs
 sudo npm install -g npm
 ```
+运行 npm config set loglevel http，让你知道 npm 发的每一个请求
+运行 npm config set progress false，关闭那个进度条
+为了让你的安装速度变快，运行 npm config set registry https://registry.npm.taobao.org/想要恢复成原样，只需要 npm config delete registry 即可
+
+##### npm i -g vue-cli 出错
+
+```
+$ npm install -g async
+$ npm install -g abbrev
+$ npm install -g http-errors
+$ npm install -g browerify
+$ npm i -g npm
+```
 
 >参考文章
 >https://medium.com/@Andreas_cmj/how-to-setup-a-nice-looking-terminal-with-wsl-in-windows-10-creators-update-2b468ed7c326
-
-
-
-
-
-conemu????
