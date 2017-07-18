@@ -42,3 +42,9 @@ sudo npm install -g npm
 
 >参考文章
 >https://medium.com/@Andreas_cmj/how-to-setup-a-nice-looking-terminal-with-wsl-in-windows-10-creators-update-2b468ed7c326
+
+
+
+
+
+conemu????
