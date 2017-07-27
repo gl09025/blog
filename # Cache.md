@@ -17,12 +17,14 @@
 ### HTTP协议中与缓存相关的首部字段
 
 1.通用首部字段
+
 | 字段名称          | 说明                              |
 | :------------ | :------------------------------ |
 | Cache-Control | 控制缓存的行为                         |
 | Pragma        | http1.0的旧社会遗物，值为“no-cache”时禁用缓存 |
 
 2.请求首部字段
+
 | 字段名称                | 说明               |
 | :------------------ | :--------------- |
 | If-Match            | 比较ETag是否一致       |
@@ -32,10 +34,13 @@
 
 
 3.响应首部字段
+
 | 字段名称 | 说明      |
 | :--- | :------ |
 | ETag | 资源的匹配信息 |
+
 4.实体首部字段
+
 | 字段名称          | 说明                    |
 | :------------ | :-------------------- |
 | Expires       | http1.0的遗留物，实体主题过期的时间 |
@@ -49,6 +54,7 @@
   "Cache-Control" ":" cache-directive
   ```
   作为请求首部时，cache-directive的可选值有：
+  
 | 字段名称                      | 说明                                       |
 | :------------------------ | :--------------------------------------- |
 | no-cache                  | 告知（代理）服务器不直接使用缓存，要求向原服务器发起请求             |
@@ -61,6 +67,7 @@
 | cache-extension           | 自定义扩展值，若服务器不识别该值将被忽略掉                    |
 
 作为响应首部时，cache-directive的可选值有：
+
 | 字段名称                   | 说明                                       |
 | :--------------------- | :--------------------------------------- |
 | public                 | 表明任何情况下都得缓存该资源（即使是需要HTTP认证的资源）           |
@@ -111,7 +118,11 @@ Cache-Control: max-age=3600, must-revalidate
 
   >参考文章
   >[HTTP缓存控制小结](http://imweb.io/topic/5795dcb6fb312541492eda8c)
+  
   >[浅谈浏览器http的缓存机制](http://www.cnblogs.com/vajoy/p/5341664.html)
+  
   >[HTTP 缓存 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Caching_FAQ)
+  
   >[HTTP 缓存|Web|Google Developers](https://developers.google.com/web/fundamentals/performance/)optimizing-content-efficiency/http-caching?hl=zh-cn]
+  
   >[Cache-Control](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Cache-Control)
